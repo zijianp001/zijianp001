@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Future-Genius
-- 👀 I’m interested in 下午茶
-- 🌱 I’m currently learning Stats&CS
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in 悦榕庄下午茶， web crawling, graph algorithms(Ramsey theory)
+- 🌱 I’m currently learning CS&Stats
+- 💞️ I’m looking to collaborate on 吃喝玩乐(eating, drinking, and hanging out)
 - 📫 How to reach me zijian.pei@mail.mcgill.ca
 
 <!---
