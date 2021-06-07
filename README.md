@@ -3,7 +3,7 @@
 - 🌱 I’m currently a McGill student in Honors Probability and Statistics, with minor in Computer Science.
 - 💞️ I’m looking to collaborate on numerical optimization, and graph algorithm research.
 - 📫 How to reach me zijian.pei@mail.mcgill.ca
-- ：sunglasses: Free education for all!!!!!!!
+- :sunglasses: Free education for all!!!!!!!
 
 <!---
 Future-Genius/Future-Genius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
