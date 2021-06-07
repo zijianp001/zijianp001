@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Future-Genius
-- 👀 I’m interested in 悦榕庄下午茶, web crawling, graph algorithms(Ramsey theory)
-- 🌱 I’m currently learning CS&Stats
-- 💞️ I’m looking to collaborate on 吃喝玩乐(eating, drinking, and hanging out)
+- 👀 I’m interested in afternoon tea, web crawling, graph algorithms(Ramsey theory), and Linux core stuff.
+- 🌱 I’m currently a McGill student in Honors Probability and Statistics, with minor in Computer Science.
+- 💞️ I’m looking to collaborate on numerical optimization, and graph algorithm research.
 - 📫 How to reach me zijian.pei@mail.mcgill.ca
+- ：sunglasses: Free education for all!!!!!!!
 
 <!---
 Future-Genius/Future-Genius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
