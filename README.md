@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on numerical optimization, and graph algorithm research.
 - 📫 How to reach me zijian.pei@mail.mcgill.ca (general question)     
 - :sunglasses: Free education for all!!!!!!!
-- 🐒 Java is the best LANGUAGE in the world. 
+- 🐒 Java is the best LANGUAGE in the world..
 
 <!---
 Future-Genius/Future-Genius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
