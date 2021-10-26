@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Future-Genius
-- 👀 I’m interested in afternoon tea, web crawling, graph algorithms(Ramsey theory), and Linux core stuff.
+- 👀 I’m interested in web crawling, graph algorithms(Ramsey theory), and system design.
 - 🌱 I’m currently a McGill student in Honors Probability and Statistics, with minor in Computer Science.
-- 💞️ I’m looking to collaborate on numerical optimization, and graph algorithm research.
-- 📫 How to reach me zijian.pei@mail.mcgill.ca (general question)     
+- 💞️ I’m looking to collaborate on machine learning models and system design.
+- 📫 How to reach me zijian.pei@mail.mcgill.ca      
 - :sunglasses: Free education for all!!!!!!!
 - 🐒 Java is the best LANGUAGE in the world..
 
