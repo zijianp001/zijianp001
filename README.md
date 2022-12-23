@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zijianp001
 - 👀 I’m interested in designing useful applications.
-- 🌱 I’m currently a McGill student in Honors Probability and Statistics, with minor in Computer Science.
+- 🌱 I’m currently a master student at University of Illinois Urbana-Champaign.
 - 📫 How to reach me zijianp3@illinois.edu    
 - :sunglasses: Free education for all!!!!!!!
 - 🐒 Java is the best LANGUAGE in the world..
