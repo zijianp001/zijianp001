@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zijianp001
 - 👀 I’m interested in designing useful applications.
 - 🌱 I’m currently a master student at University of Illinois Urbana-Champaign.
-- 📫 How to reach me zijianp3@illinois.edu    
+- 📫 How to reach me kevinpei0306@gmail.com   
 - :sunglasses: Free education for all!!!!!!!
 - 🐒 Java is the best LANGUAGE in the world..
 
